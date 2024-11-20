@@ -33,7 +33,6 @@ details
 
 # futuras mejoras
 - hacer una pantalla de inicio.
-- saltar.
 - ampliar los niveles.
 - eliminación por tiempos.
 - guardar los high scores.
